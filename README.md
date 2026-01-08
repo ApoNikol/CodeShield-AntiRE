@@ -12,7 +12,7 @@ In the open-source and commercial world, protecting intellectual property and bi
 * **Advanced Stripping:** Removing metadata and symbols that aid reverse engineers.
 
 ## 📅 Roadmap
-This project is currently in the **active research and development phase**. I plan to release the first open-source beta version following my participation in **FOSDEM 2026**, where I hope to gain deeper insights from the Security & Reverse Engineering devrooms.
+This project is currently in the **active research and development phase**. I plan to release the first open-source beta version at the end of summer, 2026.
 
 ---
 **Status:** 🚧 Work in Progress
